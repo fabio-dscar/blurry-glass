@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\BlurryGlass.shader">
+    <Files>
+      <File FileName="Assets\Scripts\BlurGen.cs" Line="107" Column="3" />
+      <File FileName="Assets\Shaders\BlurryGlass.shader" Line="52" Column="6" />
+      <File FileName="Assets\Scripts\BlurFilters.cs" Line="83" Column="2" />
+      <File FileName="Assets\Shaders\BlurFilters.cginc" Line="12" Column="38" />
+      <File FileName="Assets\Scripts\GlassEffectCamera.cs" Line="24" Column="2" />
+      <File FileName="Assets\Shaders\KawaseBlur.shader" Line="29" Column="26" />
+      <File FileName="Assets\Shaders\SeparableBlur.shader" Line="43" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
